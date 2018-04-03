@@ -1,16 +1,26 @@
 # Today I Learned
 
+## 20180327
+
+* react.js
+
+## 20180329
+
+* react-native[https://facebook.github.io/react-native]
+
+## 20180330
+
+* git[https://git-scm.com/]
+
 ## 20180331
+### github seminar @Gangnam
 
-### Python
+*github
+*jekyll
+*udacity nanodegree
 
-Hello!
+## 20180401
+### data science course @Gangnam
 
-*Python
-*HTML
-*Css
+*pandas visuallization
 
-
-## 20180402
-*list
-*function
