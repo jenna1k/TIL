@@ -1,26 +1,26 @@
 # Today I Learned
 
-## 20180327
+## 27 Mar 2018
 
 * react.js
 
-## 20180329
+## 29 Mar 2018
 
 * react-native[https://facebook.github.io/react-native]
 
-## 20180330
+## 30 Mar 2018
 
 * git[https://git-scm.com/]
 
-## 20180331
+## 31 Mar 2018
 ### github seminar @Gangnam
 
-*github
-*jekyll
-*udacity nanodegree
+* github
+* jekyll
+* udacity nanodegree
 
-## 20180401
+## 1 Apr 2018
 ### data science course @Gangnam
 
-*pandas visuallization
+* pandas visuallization
 
