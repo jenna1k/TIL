@@ -33,6 +33,7 @@
 * [markdown](https://guides.github.com/features/mastering-markdown/)
 * [google cloud platform](https://sites.google.com/view/cloudstudyjamkr/home)
 * edwith
-* [github: for-a-repo](https://help.github.com/articles/fork-a-repo/)
-  * Keep your fork synced 
-  > To do this, you'll need to use [Git](https://git-scm.com/book/en/v2) on the command line
+* [github help](https://help.github.com/)
+  * [for-a-repo](https://help.github.com/articles/fork-a-repo/)
+    * [Keep your fork synced](https://help.github.com/articles/fork-a-repo/#keep-your-fork-synced): To do this, you'll need to use [Git](https://git-scm.com/book/en/v2) on the command line
+  * [contribution](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
