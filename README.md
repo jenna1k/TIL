@@ -6,11 +6,11 @@
 
 ## 29 Mar 2018
 
-* react-native[https://facebook.github.io/react-native]
+* [react-native](https://facebook.github.io/react-native)
 
 ## 30 Mar 2018
 
-* git[https://git-scm.com/]
+* [git](https://git-scm.com/)
 
 ## 31 Mar 2018
 ### github seminar @Gangnam
@@ -24,3 +24,12 @@
 
 * pandas visuallization
 
+## 3 Apr 2018
+
+* 42
+
+## 4 Apr 2018
+
+* [markdown](https://guides.github.com/features/mastering-markdown/)
+* [google cloud platform](https://sites.google.com/view/cloudstudyjamkr/home)
+* edwith
