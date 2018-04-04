@@ -33,3 +33,4 @@
 * [markdown](https://guides.github.com/features/mastering-markdown/)
 * [google cloud platform](https://sites.google.com/view/cloudstudyjamkr/home)
 * edwith
+* [github: for-a-repo](https://help.github.com/articles/fork-a-repo/)
