@@ -34,3 +34,5 @@
 * [google cloud platform](https://sites.google.com/view/cloudstudyjamkr/home)
 * edwith
 * [github: for-a-repo](https://help.github.com/articles/fork-a-repo/)
+  * Keep your fork synced 
+  > To do this, you'll need to use Git on the command line
