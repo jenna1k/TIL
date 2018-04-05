@@ -40,6 +40,6 @@
   
 ## 5 Apr 2018
 
-*[html-css-js](http://html-css-js.com/)
+* [html-css-js](http://html-css-js.com/)
 
   
