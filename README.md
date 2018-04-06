@@ -15,9 +15,9 @@
 ## 31 Mar 2018
 ### github seminar @Gangnam
 
-* github
+* [how to use github professionally](https://sujinlee.me/professional-github/)
 * jekyll
-* udacity nanodegree
+* [udacity nanodegree](https://www.udacity.com)
 
 ## 1 Apr 2018
 ### data science course @Gangnam
@@ -42,4 +42,9 @@
 
 * [html-css-js](http://html-css-js.com/)
 
-  
+## 6 Apr 2018
+
+* [source tree app](https://www.sourcetreeapp.com/)
+* [blog - try react](https://blog.naver.com/gi_balja/221224082297)
+* [js bin](http://jsbin.com/)
+
