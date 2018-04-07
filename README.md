@@ -48,3 +48,8 @@
 * [blog - try react](https://blog.naver.com/gi_balja/221224082297)
 * [js bin](http://jsbin.com/)
 
+## 7 Apr 2018
+
+* javaschipt for, while
+* DOM
+* jquery
