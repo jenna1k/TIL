@@ -53,3 +53,7 @@
 * javaschipt for, while
 * DOM
 * jquery
+
+## 8 Apr 2018
+
+* [Online jQuery Cheat Sheet](http://htmlcheatsheet.com/jquery/)
