@@ -56,4 +56,6 @@
 
 ## 8 Apr 2018
 
+* [Online Interactive HTML Cheat Sheet](http://htmlcheatsheet.com/)
+* [Online Interactive CSS Cheat Sheet](http://htmlcheatsheet.com/css/)
 * [Online jQuery Cheat Sheet](http://htmlcheatsheet.com/jquery/)
