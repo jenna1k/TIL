@@ -59,3 +59,13 @@
 * [Online Interactive HTML Cheat Sheet](http://htmlcheatsheet.com/)
 * [Online Interactive CSS Cheat Sheet](http://htmlcheatsheet.com/css/)
 * [Online jQuery Cheat Sheet](http://htmlcheatsheet.com/jquery/)
+
+## 9 Apr 2018
+
+* JQuery #1: DOM
+  $:id /class / eq / nth-child / tagname
+  $.append/  $.prepend/  $.remove/  $.text, $.html/  $.attr/  $.css/  $.addClass, $.removeClass/  $.clone
+* JQuery #2: Event
+  $.click / $.hover / $.focus/  $.mouseover, $.mouseout / $.mouseenter, $.mouseleave/  $.change/function(){}
+* Javascript Timer
+  setTimeout / setInterval / clearInterval/  $.ready/variable Scope
