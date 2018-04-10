@@ -69,3 +69,6 @@
   $.click / $.hover / $.focus/  $.mouseover, $.mouseout / $.mouseenter, $.mouseleave/  $.change/function(){}
 * Javascript Timer
   setTimeout / setInterval / clearInterval/  $.ready/variable Scope
+
+## 10 Apr 2018
+
