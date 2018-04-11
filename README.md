@@ -52,7 +52,7 @@
 
 * javaschipt for, while
 * DOM
-* jquery
+* jQuery
 
 ## 8 Apr 2018
 
@@ -62,13 +62,17 @@
 
 ## 9 Apr 2018
 
-* JQuery #1: DOM
+* jQuery #1: DOM
   $:id /class / eq / nth-child / tagname
   $.append/  $.prepend/  $.remove/  $.text, $.html/  $.attr/  $.css/  $.addClass, $.removeClass/  $.clone
-* JQuery #2: Event
+* jQuery #2: Event
   $.click / $.hover / $.focus/  $.mouseover, $.mouseout / $.mouseenter, $.mouseleave/  $.change/function(){}
 * Javascript Timer
   setTimeout / setInterval / clearInterval/  $.ready/variable Scope
 
 ## 10 Apr 2018
-
+* jQuery UI
+## 11 Apr 2018
+* chart.js
+* D3js
+## 12 Apr 2018
