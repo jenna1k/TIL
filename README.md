@@ -77,3 +77,6 @@
 * D3js
 * [tryruby](tryruby.org)
 ## 12 Apr 2018
+* OOP
+* MVC
+## 13 Apr 2018
