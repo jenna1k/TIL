@@ -81,7 +81,7 @@
 * MVC
 ## 13 Apr 2018
 * [Meta tags that Google understands](https://support.google.com/webmasters/answer/79812?hl=en)
-* [<meta>: The Document-level Metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+* [The Document-level Metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
 * [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [CSS FLEXBOX FROGGY](http://flexboxfroggy.com/#ko)
 * [CSS transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
