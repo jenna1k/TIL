@@ -93,3 +93,6 @@
 * [BEM quick start](https://en.bem.info/methodology/quick-start/)
 
 ## 15 Apr 2018
+
+* [emmet](https://docs.emmet.io/)
+* [Ubuntu Bash Shell](https://blogs.msdn.microsoft.com/eva/?p=7633)
