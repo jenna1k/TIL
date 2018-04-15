@@ -96,3 +96,4 @@
 
 * [emmet](https://docs.emmet.io/)
 * [Ubuntu Bash Shell](https://blogs.msdn.microsoft.com/eva/?p=7633)
+* [macincloud](https://www.macincloud.com/)
