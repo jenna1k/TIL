@@ -98,3 +98,7 @@
 * [Ubuntu Bash Shell](https://blogs.msdn.microsoft.com/eva/?p=7633)
 * [macincloud](https://www.macincloud.com/)
 * [VSTS](https://www.visualstudio.com/ko/team-services/?rr=https%3A%2F%2Fwww.google.com%2F)
+* [library vs framework](https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/)
+* [django overview](https://www.djangoproject.com/start/overview/)
+
+## 16 Apr 2018
