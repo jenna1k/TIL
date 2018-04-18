@@ -1,6 +1,8 @@
 # Today I Learned
 
-
+## 18 Apr 2018
+* [{ Box-sizing: Border-box } FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+* [reset.css](https://raw.githubusercontent.com/nomadcoders/kakao-clone/master/css/reset.css)
 ## 17 Apr 2018
 * [emmet cheat-sheet](https://docs.emmet.io/cheat-sheet/)
 ## 16 Apr 2018
