@@ -1,5 +1,11 @@
 # Today I Learned
+## 20 Apr 2018
+* 
 
+## 19 Apr 2018
+* [hugo](https://gohugo.io/)
+* [hugo theme](https://github.com/devcows/hugo-universal-theme)
+* [why-learning-to-code-is-so-damn-hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 ## 18 Apr 2018
 * [{ Box-sizing: Border-box } FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 * [reset.css](https://raw.githubusercontent.com/nomadcoders/kakao-clone/master/css/reset.css)
