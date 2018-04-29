@@ -1,7 +1,7 @@
 # Today I Learned
-## 20 Apr 2018
-* 
-
+## 28 Apr 2018
+* [Learn D3.js in 5 minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
+* SVG(Scalable Vector Graphic)
 ## 19 Apr 2018
 * [hugo](https://gohugo.io/)
 * [hugo theme](https://github.com/devcows/hugo-universal-theme)
