@@ -1,4 +1,7 @@
 # Today I Learned
+## 30 Apr 2018
+### django girls seoul @ GOOGLE CAMPUS KOREA
+* 
 ## 28 Apr 2018
 * [Learn D3.js in 5 minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
 * SVG(Scalable Vector Graphic)
