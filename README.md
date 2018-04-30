@@ -1,7 +1,23 @@
 # Today I Learned
 ## 30 Apr 2018
 ### django girls seoul @ GOOGLE CAMPUS KOREA
-* 
+* [linter](https://subicura.com/2016/07/11/coding-convention.html)
+  * flake8
+  * [Linting Python in VS Code](https://code.visualstudio.com/docs/python/linting)
+* unit test
+  * [파이썬 단위테스트](https://til.chann.kr/python/unit_test) import unittest
+  * [pytest](https://docs.pytest.org/en/latest/)
+* CI(continuous integration) service
+  * Jenkins
+  * AWS code builder
+  * [CircleCI](https://circleci.com/)
+
+
+* [pythonstudy.xyz](http://pythonstudy.xyz/)
+* [The hitchhiker's Guide to Python](http://python-guide-kr.readthedocs.io/ko/latest/index.html)
+* [dive into python3](http://www.diveintopython3.net/index.html)
+
+
 ## 28 Apr 2018
 * [Learn D3.js in 5 minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
 * SVG(Scalable Vector Graphic)
