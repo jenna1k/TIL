@@ -1,10 +1,6 @@
 # Today I Learned
-## 1 May 2018
+## 2 May 2018
 ### css
-* [CSS background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
-* [CSS cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
-* [CSS Transitions](http://css3.bradshawenterprises.com/transitions/)
-* [CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
 * [Advanced Media Queries](https://github.com/at-import/breakpoint/wiki/advanced-media-queries)
 * [Advanced CSS3 Animation Effects](https://www.sitepoint.com/advanced-css3-animations/)
 * [CSS4 Rocks](http://css4.rocks/)
@@ -12,6 +8,11 @@
 ### web app
 * [Configuring Web Applications](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 * [Creating a Mobile Web Application with Meta Tags](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
+## 1 May 2018
+* [CSS background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
+* [CSS cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
+* [CSS Transitions](http://css3.bradshawenterprises.com/transitions/)
+* [CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
 ## 30 Apr 2018
 ### django girls seoul @ GOOGLE CAMPUS KOREA
 * [linter](https://subicura.com/2016/07/11/coding-convention.html)
