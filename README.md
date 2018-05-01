@@ -1,4 +1,7 @@
 # Today I Learned
+## 1 May 2018
+* [CSS background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
+* [CSS cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 ## 30 Apr 2018
 ### django girls seoul @ GOOGLE CAMPUS KOREA
 * [linter](https://subicura.com/2016/07/11/coding-convention.html)
