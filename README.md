@@ -1,4 +1,5 @@
 # Today I Learned
+## 3 May 2018
 ## 2 May 2018
 ### css
 * [Advanced Media Queries](https://github.com/at-import/breakpoint/wiki/advanced-media-queries)
@@ -8,6 +9,9 @@
 ### web app
 * [Configuring Web Applications](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 * [Creating a Mobile Web Application with Meta Tags](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
+### react
+* [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [React.Component](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
 ## 1 May 2018
 * [CSS background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
 * [CSS cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
