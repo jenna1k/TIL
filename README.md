@@ -9,8 +9,11 @@
 ### web app
 * [Configuring Web Applications](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 * [Creating a Mobile Web Application with Meta Tags](https://speckyboy.com/creating-a-mobile-web-application-with-meta-tags/)
-### react
+### javascript
 * [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [Window setTimeout() Method](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+* [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+### react
 * [React.Component](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
 ## 1 May 2018
 * [CSS background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
