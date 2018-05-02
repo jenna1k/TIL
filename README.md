@@ -1,5 +1,10 @@
 # Today I Learned
 ## 3 May 2018
+* [React: Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* [Ajax in React: Networking and Fetch](https://facebook.github.io/react-native/docs/network.html)
+* [Introduction to ES6 Promises](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
+* [Async Await vs Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9#.8dv1y7ilu)
+* [Deploying a Create React App to Github pages](https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089)
 ## 2 May 2018
 ### css
 * [Advanced Media Queries](https://github.com/at-import/breakpoint/wiki/advanced-media-queries)
