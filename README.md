@@ -1,4 +1,12 @@
 # Today I Learned
+## ~ 10 May 2018
+* [Native Directory - 335 React Native libraries](https://www.native.directory)
+* [django project](https://www.djangoproject.com)
+* [BAE/<JOON>](https://www.acmicpc.net/problem)
+* [a study plan to cure javascript fatigue (kor)](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue)
+* [android developer tax (kor)](https://semusa.gitbooks.io/android_developer_tax)
+* [crypto zombies](https://cryptozombies.io/ko)
+* [summer of code 2018](https://1millionwomentotech.com/summerofcode1)
 ## 3 May 2018
 * [React: Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [Ajax in React: Networking and Fetch](https://facebook.github.io/react-native/docs/network.html)
