@@ -2,7 +2,7 @@
 ## ~ 10 May 2018
 * [Native Directory - 335 React Native libraries](https://www.native.directory)
 * [django project](https://www.djangoproject.com)
-* [BAE/<JOON>](https://www.acmicpc.net/problem)
+* [BAEKJOON](https://www.acmicpc.net/problem)
 * [a study plan to cure javascript fatigue (kor)](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue)
 * [android developer tax (kor)](https://semusa.gitbooks.io/android_developer_tax)
 * [crypto zombies](https://cryptozombies.io/ko)
