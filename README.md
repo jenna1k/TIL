@@ -2,7 +2,7 @@
 ## 17 May 2018
 * [Art of Clean Pull Request(kor)](http://blog.sonim1.com/224?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 ## 16 May 2018
-### D.talks - SEA: It's potential, challenges, and opportunities. lessons learned from [Snapcart](snapcart.global/blog) @Dcamp
+### D.talks - SEA: It's potential, challenges, and opportunities. lessons learned from [Snapcart](http://snapcart.global/blog) @Dcamp
 ## ~ 10 May 2018
 * [Native Directory - 335 React Native libraries](https://www.native.directory)
 * [django project](https://www.djangoproject.com)
