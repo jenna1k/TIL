@@ -1,4 +1,11 @@
 # Today I Learned
+## 31 May 2018
+* [CodeSandbox](https://codesandbox.io)
+* [Now.sh](https://zeit.co/now)
+* [CssGridGarden](https://cssgridgarden.com/)
+* [warriorjs](https://warrior.js.org/)
+* [code.org](https://code.org/student/university)
+* [python chatbot(kor)](http://static.wooridle.net/lectures/chatbot/)
 ## 25 May 2018
 * [CSSgrid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [Grid by Example](https://gridbyexample.com/examples/)
