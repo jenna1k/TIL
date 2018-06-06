@@ -1,5 +1,6 @@
 # Today I Learned
 ## 6 Jun 2018
+* [DeepLearningZeroToAll Youtube(kor)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * [http://hunkim.github.io/ml/ (kor)](http://hunkim.github.io/ml/)
 * [DeepLearningZeroToAll (kor)](https://github.com/hunkim/DeepLearningZeroToAll)
 * [http://holehouse.org/mlclass/](http://holehouse.org/mlclass/)
