@@ -1,4 +1,10 @@
 # Today I Learned
+## 6 Jun 2018
+* [http://hunkim.github.io/ml/ (kor)](http://hunkim.github.io/ml/)
+* [DeepLearningZeroToAll (kor)](https://github.com/hunkim/DeepLearningZeroToAll)
+* [http://holehouse.org/mlclass/](http://holehouse.org/mlclass/)
+* [http://cs231n.github.io/](http://cs231n.github.io/)
+* [Tensor Ranks, Shapes, Type (kor)](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/resources/dims_types.html)
 ## 31 May 2018
 * [CodeSandbox](https://codesandbox.io)
 * [Now.sh](https://zeit.co/now)
