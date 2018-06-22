@@ -1,4 +1,14 @@
 # Today I Learned
+## 22 Jun 2018
+### Facebook Developer Circle: Seoul
+Global Hackathon Community Challenge Build day
+## 21 Jun 2018
+### Udacity Bertelmann's DataScience Scholarship
+KR study group meetup
+## 14 Jun 2018
+### Udacity Bertelmann's DataScience Scholarship
+KR study group meetup
+* [course summary note translation project](#)
 ## 6 Jun 2018
 * [DeepLearningZeroToAll Youtube(kor)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * [http://hunkim.github.io/ml/ (kor)](http://hunkim.github.io/ml/)
