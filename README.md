@@ -1,4 +1,9 @@
 # Today I Learned
+## 4 Jul 2018
+* [Python : Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [Python : Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+* [Python : String Method](https://docs.python.org/3/library/stdtypes.html#string-methods)
 ## 22 Jun 2018
 ### Facebook Developer Circle: Seoul
 Global Hackathon Community Challenge Build day
