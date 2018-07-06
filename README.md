@@ -1,4 +1,7 @@
 # Today I Learned
+## 6 Jul 2018
+* [Ipython](https://ipython.org/) - A better interactive Python interpreter
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - Used to parse HTML and extract information from it. Great for web scraping.
 ## 4 Jul 2018
 * [Python : Floating Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
