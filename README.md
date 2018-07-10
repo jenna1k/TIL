@@ -1,4 +1,9 @@
 # Today I Learned
+## 10 Jul 2018
+### AWS AI academy @Wework seoul square
+  1. Python/Django & AWS AI API
+  2. AWS ML Service
+  3. Blockchanin & AI
 ## 6 Jul 2018
 * [Ipython](https://ipython.org/) - A better interactive Python interpreter
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - Used to parse HTML and extract information from it. Great for web scraping.
