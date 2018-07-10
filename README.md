@@ -1,6 +1,6 @@
 # Today I Learned
 ## 10 Jul 2018
-### AWS AI academy @Wework seoul square
+### [AWS AI academy](http://hands-on-ai.surge.sh/) @Wework seoul square
   1. Python/Django & AWS AI API
   2. AWS ML Service
   3. Blockchanin & AI
