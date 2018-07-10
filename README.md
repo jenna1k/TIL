@@ -4,6 +4,8 @@
   1. Python/Django & AWS AI API
   2. AWS ML Service
   3. Blockchanin & AI
+  ## 9 Jul 2018
+  * [bash reference manual](http://www.gnu.org/software/bash/manual/bash.html)
 ## 6 Jul 2018
 * [Ipython](https://ipython.org/) - A better interactive Python interpreter
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - Used to parse HTML and extract information from it. Great for web scraping.
