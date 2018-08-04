@@ -1,4 +1,6 @@
 # Today I Learned
+## 4 Aug 2018
+* [quantum experience ibmQ](https://quantumexperience.ng.bluemix.net/qx/editor)
 ## 10 Jul 2018
 ### [AWS AI academy](http://hands-on-ai.surge.sh/) @Wework seoul square
   1. Python/Django & AWS AI API
