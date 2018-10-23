@@ -1,7 +1,7 @@
 # Today I Learned
 ## 23 Oct 2018
 ### Le wagon @Berlin: Intro to javascript
-## 23 Oct 2018
+## 18 Oct 2018
 ### Data Science co-learning @co-up, Berlin
 ## 18 Aug 2018
 * [quantum experience ibmQ](https://quantumexperience.ng.bluemix.net/qx/editor)
