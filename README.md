@@ -1,6 +1,8 @@
 # Today I Learned
 ## 24 Jan 2019
 * [YouMightNotNeedjQuery](http://youmightnotneedjquery.com/)
+* [w3layouts](https://w3layouts.com/)
+* [free-css](https://www.free-css.com/free-css-templates)
 ## 23 Oct 2018
 ### Le wagon @Berlin: Intro to javascript
 ## 18 Oct 2018
