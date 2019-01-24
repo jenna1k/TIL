@@ -1,4 +1,6 @@
 # Today I Learned
+## 24 Jan 2019
+* [YouMightNotNeedjQuery](http://youmightnotneedjquery.com/)
 ## 23 Oct 2018
 ### Le wagon @Berlin: Intro to javascript
 ## 18 Oct 2018
