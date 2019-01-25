@@ -2,6 +2,7 @@
 ## 25 Jan 2019
 * [css-trick](https://css-tricks.com/almanac/)
 * [paletton.com](http://paletton.com/)
+* [css specificity calculator](https://specificity.keegan.st/)
 ## 24 Jan 2019
 * [YouMightNotNeedjQuery](http://youmightnotneedjquery.com/)
 * [w3layouts](https://w3layouts.com/)
