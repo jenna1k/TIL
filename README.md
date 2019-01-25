@@ -1,4 +1,6 @@
 # Today I Learned
+## 25 Jan 2019
+* [css-trick](https://css-tricks.com/almanac/)
 ## 24 Jan 2019
 * [YouMightNotNeedjQuery](http://youmightnotneedjquery.com/)
 * [w3layouts](https://w3layouts.com/)
