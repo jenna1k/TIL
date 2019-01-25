@@ -3,6 +3,7 @@
 * [css-trick](https://css-tricks.com/almanac/)
 * [paletton.com](http://paletton.com/)
 * [css specificity calculator](https://specificity.keegan.st/)
+* [css-minify](https://www.cleancss.com/css-minify/)
 ## 24 Jan 2019
 * [YouMightNotNeedjQuery](http://youmightnotneedjquery.com/)
 * [w3layouts](https://w3layouts.com/)
