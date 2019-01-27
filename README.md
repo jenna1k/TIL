@@ -1,6 +1,9 @@
 # Today I Learned
+## 27 Jan 2019
+* [Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [javascript Char Codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 ## 26 Jan 2019
-#Resources for FREE Templates
+# Resources for FREE Templates
 * [cruip](https://cruip.com)
 * [Creative Tim Templates](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price)
 * [Bootstrap Templates 0](https://mdbootstrap.com/freebies/)
