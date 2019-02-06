@@ -1,4 +1,6 @@
 # Today I Learned
+## 28 Jan 2019
+* [git existing project](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 ## 27 Jan 2019
 * [Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [javascript Char Codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
