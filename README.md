@@ -1,4 +1,6 @@
 # Today I Learned
+## 07 Feb 2019
+* [Javascript - Computing property names](https://www.deadcoderising.com/2017-06-20-es6-3-new-ways-of-defining-object-properties-in-javascript/)
 ## 28 Jan 2019
 * [git existing project](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 ## 27 Jan 2019
