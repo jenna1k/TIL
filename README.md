@@ -1,4 +1,6 @@
 # Today I Learned
+## 10 Feb 2019
+* [functional purity](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
 ## 07 Feb 2019
 * [Javascript - Computing property names](https://www.deadcoderising.com/2017-06-20-es6-3-new-ways-of-defining-object-properties-in-javascript/)
 * [MDN | Javascript - Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
