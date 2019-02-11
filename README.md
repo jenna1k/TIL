@@ -1,6 +1,7 @@
 # Today I Learned
 ## 11 Feb 2019
 * [JS data type - primitive and reference](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
+* [자료구조 - heap 이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 ## 10 Feb 2019
 * [functional purity](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
 ## 07 Feb 2019
