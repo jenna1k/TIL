@@ -1,5 +1,6 @@
 # Today I Learned
 ## 11 Feb 2019
+* [javascript useful array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 * [Javascript Object-explorer](https://sdras.github.io/object-explorer/)
 * [JS instantiation](https://medium.com/dailyjs/instantiation-patterns-in-javascript-8fdcf69e8f9b)
 * [JS context](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
