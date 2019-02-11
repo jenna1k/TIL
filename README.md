@@ -11,6 +11,8 @@
 * [Javascript - Computing property names](https://www.deadcoderising.com/2017-06-20-es6-3-new-ways-of-defining-object-properties-in-javascript/)
 * [MDN | Javascript - Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 * [Closures in Javascript](https://www.youtube.com/watch?v=-xqJo5VRP4A)
+## 31 Jan 2019
+* [Javascript callback function](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
 ## 28 Jan 2019
 * [git existing project](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 ## 27 Jan 2019
