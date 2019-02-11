@@ -1,6 +1,8 @@
 # Today I Learned
 ## 11 Feb 2019
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [javascript-the-core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+
 * [javascript modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 * [javascript useful array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 * [Javascript Object-explorer](https://sdras.github.io/object-explorer/)
