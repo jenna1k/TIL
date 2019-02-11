@@ -37,6 +37,28 @@
 * [YouMightNotNeedjQuery](http://youmightnotneedjquery.com/)
 * [w3layouts](https://w3layouts.com/)
 * [free-css](https://www.free-css.com/free-css-templates)
+## 01 Dec 2018
+### Deep Dive UX/UI | 1-Day Workshop for Beginners
+## 29 Nov 2018
+### CryptoParty: Privacy for Beginners
+## 22 Nov 2018 - 23 Nov 2018
+### Data Natives Berlin 2018
+## 20 Nov 2018 - 21 Nov 2018
+### Codemotion Berlin 2018
+## 15 Thu 2018
+### Woman-In-Loop: AI Hackathon
+## 14 Nov 2018
+### WTMB : Javascript Crash Course Vol.2 @Eurostaff, Berlin
+## 07 Nov 2018
+### WTMB : Javascript Crash Course Vol.2 @Eurostaff, Berlin
+## 31 Oct 2018
+### WTMB : Javascript Crash Course Vol.2 @Eurostaff, Berlin
+## 29 Oct 2018
+### React Girls Berlin - GraphQL & Chatbot-like
+## 25 Oct 2018
+### CodePub goes Klarna! React Workshop
+## 24 Oct 2018
+### WTMB : Javascript Crash Course Vol.2 @Eurostaff, Berlin
 ## 23 Oct 2018
 ### Le wagon @Berlin: Intro to javascript
 ## 18 Oct 2018
