@@ -1,5 +1,6 @@
 # Today I Learned
 ## 12 Feb 2019
+* [command line (windows/linux)](https://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/)
 * [javascript array sort() method](https://www.w3schools.com/js/js_array_sort.asp)
 ## 11 Feb 2019
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
