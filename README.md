@@ -1,6 +1,8 @@
 # Today I Learned
 ## 15 Feb 2019
+* [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started)
 * [tachyons](https://tachyons.io/)
+* [mozilla | re-introduction_to_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 ## 12 Feb 2019
 * [command line (windows/linux)](https://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/)
 * [javascript array sort() method](https://www.w3schools.com/js/js_array_sort.asp)
