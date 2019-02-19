@@ -1,5 +1,6 @@
 # Today I Learned
 ## 19 Feb 2019
+* [ajax fetch](https://en.wikipedia.org/wiki/Ajax_(programming)#fetch)
 * [json parse&stringify](https://alligator.io/js/json-parse-stringify/)
 * [http messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
 * [http://www.example.com/](http://www.example.com/)
