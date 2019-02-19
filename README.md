@@ -1,4 +1,7 @@
 # Today I Learned
+## 19 Feb 2019
+* [http messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
+* [http://www.example.com/](http://www.example.com/)
 ## 15 Feb 2019
 * [service-workers](https://developers.google.com/web/fundamentals/primers/service-workers/)
 * [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started)
