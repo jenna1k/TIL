@@ -1,5 +1,6 @@
 # Today I Learned
 ## 19 Feb 2019
+* [javascript async/await](https://javascript.info/async-await)
 * [javascript promise](https://javascript.info/promise-basics)
 * [ajax fetch](https://en.wikipedia.org/wiki/Ajax_(programming)#fetch)
 * [json parse&stringify](https://alligator.io/js/json-parse-stringify/)
