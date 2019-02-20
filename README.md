@@ -1,4 +1,9 @@
 # Today I Learned
+## 20 Feb 2019
+### E-commerce Berlin Expo 2019
+* [facebook creativeshop](https://m.facebook.com/business/a/creative-tools)
+* [microservices](https://en.wikipedia.org/wiki/Microservices)
+* [check my search](https://sooqrsearch.typeform.com/to/JCD9a5)
 ## 19 Feb 2019
 * [javascript async/await](https://javascript.info/async-await)
 * [javascript promise](https://javascript.info/promise-basics)
