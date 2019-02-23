@@ -1,5 +1,6 @@
 # Today I Learned
 ## 23 Feb 2019
+* [javascript single-threaded, non-blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/)
 * [eloquent javascript](https://eloquentjavascript.net/)
 ## 22 Feb 2019
 * [codingheroes.io/resources](http://codingheroes.io/resources/)
