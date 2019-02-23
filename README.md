@@ -1,4 +1,6 @@
 # Today I Learned
+## 23 Feb 2019
+* [eloquent javascript](https://eloquentjavascript.net/)
 ## 22 Feb 2019
 * [codingheroes.io/resources](http://codingheroes.io/resources/)
 * [css box-sizing:border-box](https://www.w3schools.com/css/css3_box-sizing.asp)
