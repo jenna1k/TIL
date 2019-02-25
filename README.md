@@ -1,6 +1,6 @@
 # Today I Learned
 ## 25 Feb 2019
-* [javascript 비동기처리와 ](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
+* [javascript 비동기처리와 콜백함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 * [ajax란 무엇인가](https://coding-factory.tistory.com/143)
 ## 23 Feb 2019
 * [javascript single-threaded, non-blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/)
