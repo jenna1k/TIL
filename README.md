@@ -1,5 +1,5 @@
 # Today I Learned
-## 24 Feb 2019
+## 25 Feb 2019
 * [javascript 비동기처리와 ](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 * [ajax란 무엇인가](https://coding-factory.tistory.com/143)
 ## 23 Feb 2019
