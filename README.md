@@ -4,6 +4,7 @@
 ## 27 Feb 2019
 * [css heart shape](https://css-tricks.com/books/volume-i/make-heart-shape/)
 * [css pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
+* [css content property](https://www.w3schools.com/cssref/pr_gen_content.asp)
 ## 26 Feb 2019
 ### AWS summit berlin
 * [amazon lex]()
