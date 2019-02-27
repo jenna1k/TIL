@@ -3,6 +3,7 @@
 * [css 2018](https://www.w3.org/TR/css-2018/)
 ## 27 Feb 2019
 * [css heart shape](https://css-tricks.com/books/volume-i/make-heart-shape/)
+* [css pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
 ## 26 Feb 2019
 ### AWS summit berlin
 * [amazon lex]()
