@@ -1,7 +1,11 @@
 # Today I Learned
 ## 26 Feb 2019
 ### AWS summit berlin
-
+* [amazon lex]()
+* [amazon amplify]()
+* [amazon personalize]()
+* [amazon forecast]()
+* [amazon sagemaker]()
 ## 25 Feb 2019
 * [javascript 비동기처리와 콜백함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 * [ajax란 무엇인가](https://coding-factory.tistory.com/143)
