@@ -1,6 +1,7 @@
 # Today I Learned
 ## 28 Feb 2019
 * [css 2018](https://www.w3.org/TR/css-2018/)
+* [Specs Reading: CSS Snapshot 2018 (Overview)](https://gist.github.com/Ta2Rim/d1babcd51fd1c13f63cb8567e55b5b7f)
 * [Introduction to CSS 2.1](https://www.w3.org/TR/CSS2/intro.html)
 * [css animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 ## 27 Feb 2019
