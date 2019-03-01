@@ -1,4 +1,7 @@
 # Today I Learned
+## 01 Mar 2019
+* [w3c css2 Visual formatting model](https://www.w3.org/TR/CSS2/box.html#box-model)
+* [w3c css2 Box model](https://www.w3.org/TR/CSS2/visuren.html)
 ## 28 Feb 2019
 * [css 2018](https://www.w3.org/TR/css-2018/)
 * [Specs Reading: CSS Snapshot 2018 (Overview)](https://gist.github.com/Ta2Rim/d1babcd51fd1c13f63cb8567e55b5b7f)
