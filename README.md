@@ -1,6 +1,7 @@
 # Today I Learned
 ## 02 Mar 2019
 * [css z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
+* [working with css pseudo-classes in js](https://zzz.buzz/2016/06/16/working-with-pseudo-classes-in-javascript/)
 ## 01 Mar 2019
 * [w3c css2 Visual formatting model](https://www.w3.org/TR/CSS2/box.html#box-model)
 * [w3c css2 Box model](https://www.w3.org/TR/CSS2/visuren.html)
