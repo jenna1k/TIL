@@ -1,5 +1,6 @@
 # Today I Learned
-## 05 Mar 2019
+## 06 Mar 2019
+* [agile vs devops](https://www.guru99.com/agile-vs-devops.html)
 ## 04 Mar 2019
 * [svg element](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svg)
 ## 02 Mar 2019
