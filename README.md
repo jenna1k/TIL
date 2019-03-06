@@ -2,6 +2,7 @@
 ## 06 Mar 2019
 * [agile vs devops](https://www.guru99.com/agile-vs-devops.html)
 * [javascript Array Functions: reduce()](https://www.youtube.com/watch?v=-LFjnY1PEDA)
+* [codewars | Replace With Alphabet Position (JavaScript)](https://www.codewars.com/kata/reviews/56002d1c656fe9438f00001b/groups/5c7fe22e3bf5c200018057df)
 ## 04 Mar 2019
 * [svg element](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svg)
 ## 02 Mar 2019
