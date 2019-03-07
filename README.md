@@ -1,4 +1,7 @@
 # Today I Learned
+## 07 Mar 2019
+* [codewars | Vowel Count (JavaScript)←](https://www.codewars.com/kata/reviews/54ff35d3c1bad9fbfb00021d/groups/5c80f039ecdbb900014f912d)
+* [codewars | Categorize New Member (JavaScript)](https://www.codewars.com/kata/reviews/5506c16fa11c0a0eef0000a3/groups/5c80f5ff8e669d0001deb7af)
 ## 06 Mar 2019
 * [agile vs devops](https://www.guru99.com/agile-vs-devops.html)
 * [javascript Array Functions: reduce()](https://www.youtube.com/watch?v=-LFjnY1PEDA)
