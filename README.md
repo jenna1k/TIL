@@ -3,7 +3,8 @@
 * [Bit - share components](https://bitsrc.io/)
 * [Components Should Be Focused, Independent, Reusable, Small & Testable (FIRST)](https://addyosmani.com/first/)
 * [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [codewars | Vowel Count (JavaScript)←](https://www.codewars.com/kata/reviews/54ff35d3c1bad9fbfb00021d/groups/5c80f039ecdbb900014f912d)
+* [codewars | String repeat (JavaScript)](https://www.codewars.com/kata/reviews/57f78c4be0da82645b00009c/groups/5c815f358e669d000178204b)
+* [codewars | Vowel Count (JavaScript)](https://www.codewars.com/kata/reviews/54ff35d3c1bad9fbfb00021d/groups/5c80f039ecdbb900014f912d)
 * [codewars | Categorize New Member (JavaScript)](https://www.codewars.com/kata/reviews/5506c16fa11c0a0eef0000a3/groups/5c80f5ff8e669d0001deb7af)
 ## 06 Mar 2019
 * [agile vs devops](https://www.guru99.com/agile-vs-devops.html)
