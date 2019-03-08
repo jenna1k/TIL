@@ -1,4 +1,6 @@
 # Today I Learned
+## 08 Mar 2019
+* [웹 아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR3KGe5KsP0ePYm_uihta_hE9g53EZ12X2vUyu5NCj06SV1VMehxndb71Qo)
 ## 07 Mar 2019
 * [Bit - share components](https://bitsrc.io/)
 * [Components Should Be Focused, Independent, Reusable, Small & Testable (FIRST)](https://addyosmani.com/first/)
