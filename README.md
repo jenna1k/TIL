@@ -1,8 +1,8 @@
 # Today I Learned
 ## 09 Mar 2019
 * [regexper](https://regexper.com/)
-- (\(.*?\)) any character
-- ^a(\(.*?\))a$|^e(\(.*?\))e$ starts and ends with a OR e
+- `(\(.*?\))` any character
+* [starts and ends with a|e|i|o|u](https://regexper.com/#%5Ea%28%5C%28.*%3F%5C%29%29a%24%7C%5Ee%28%5C%28.*%3F%5C%29%29e%24%7C%5Ei%28%5C%28.*%3F%5C%29%29i%24%7C%5Eo%28%5C%28.*%3F%5C%29%29o%24%7C%5Eu%28%5C%28.*%3F%5C%29%29u%24%7C%28%5C%28.*%3F%5C%29%29)
 ## 08 Mar 2019
 * [Regular Expressions in JavaScript](https://www.hackerrank.com/challenges/js10-regexp-1/topics/javascript-regex)
 * [웹 아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR3KGe5KsP0ePYm_uihta_hE9g53EZ12X2vUyu5NCj06SV1VMehxndb71Qo)
