@@ -1,5 +1,6 @@
 # Today I Learned
 ## 09 Mar 2019
+* [JavaScript Tutor](http://pythontutor.com/javascript.html#mode=edit)
 * [regexper](https://regexper.com/)
 - `(\(.*?\))` any character
 * [starts and ends with a|e|i|o|u](https://regexper.com/#%5Ea%28%5C%28.*%3F%5C%29%29a%24%7C%5Ee%28%5C%28.*%3F%5C%29%29e%24%7C%5Ei%28%5C%28.*%3F%5C%29%29i%24%7C%5Eo%28%5C%28.*%3F%5C%29%29o%24%7C%5Eu%28%5C%28.*%3F%5C%29%29u%24%7C%28%5C%28.*%3F%5C%29%29)
