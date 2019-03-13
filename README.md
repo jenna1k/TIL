@@ -1,6 +1,8 @@
 # Today I Learned
+## 13 Mar 2019
 ## 12 Mar 2019
 * [JS try throw catch finally](https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f)
+* [JS error](https://www.w3schools.com/js/js_errors.asp)
 ## 09 Mar 2019
 * [JavaScript Tutor](http://pythontutor.com/javascript.html#mode=edit)
 * [regexper](https://regexper.com/)
