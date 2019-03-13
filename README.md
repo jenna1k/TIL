@@ -1,6 +1,8 @@
 # Today I Learned
 ## 13 Mar 2019
 * [JS assert](https://www.w3schools.com/nodejs/met_assert.asp)
+* [JS remove duplicates in array](https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates)
+* [JS indexOf](https://www.w3schools.com/jsref/jsref_indexof_array.asp)
 ## 12 Mar 2019
 * [JS try throw catch finally](https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f)
 * [JS error](https://www.w3schools.com/js/js_errors.asp)
