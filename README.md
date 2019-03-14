@@ -1,4 +1,6 @@
 # Today I Learned
+## 14 Mar 2019
+* [JS class constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
 ## 13 Mar 2019
 * [JS assert](https://www.w3schools.com/nodejs/met_assert.asp)
 * [JS remove duplicates in array](https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates)
