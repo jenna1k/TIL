@@ -2,6 +2,7 @@
 ## 19 Mar 2019
 * [gist](https://gist.github.com/)
 * [HTML Sections](http://w3c.github.io/html/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements)
+* [MDN | how css works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 ## 18 Mar 2019
 * [htmlreference.io](https://htmlreference.io/)
 * [MDN | HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
