@@ -6,6 +6,18 @@
     manage CPU, RAM, Input/Output, execution of application, Rights, File, Information
   - components
     [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)), [command interpreter](https://en.wikipedia.org/wiki/Shell_(computing)), file system
+  - GNU,LINUX, UNIX
+    - UNIX
+      based on [shell](https://en.wikipedia.org/wiki/Shell_script)
+    - GNU (GNU is not Unix)
+      complete free operating system
+      Free software License GPL (General Public License)
+       `Freedom of execution : the right to launch the program.
+        Freedom of modification :  the right to study the program and modify it (access to the source code).
+        Freedom of redistribution : the right to broadcast the program, free or not.
+        Freedom of improvement :  the right to redistribute a modified version of the program.`
+
+    
 ## 25 Mar 2019
 * [linux windows dual boot system](https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/)
 ## 19 Mar 2019
