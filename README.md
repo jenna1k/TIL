@@ -5,7 +5,7 @@
   - roles
     manage CPU, RAM, Input/Output, execution of application, Rights, File, Information
   - components
-    kernel, command interpreter, file system
+    [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)), command interpreter, file system
 ## 25 Mar 2019
 * [linux windows dual boot system](https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/)
 ## 19 Mar 2019
