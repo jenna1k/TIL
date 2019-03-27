@@ -1,4 +1,6 @@
 # Today I Learned
+## 27 Mar 2019
+* [AT&T Archives: The UNIX Operating System](https://youtu.be/tc4ROCJYbm0?t=300)
 ## 26 Mar 2019
 ### GNU/LINUX
 - operating system
