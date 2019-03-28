@@ -1,4 +1,6 @@
 # Today I Learned
+## 28 Mar 2019
+* [Understanding the Viewport in the Mobile Web](https://www.alsacreations.com/article/lire/1490-comprendre-le-viewport-dans-le-web-mobile.htm)
 ## 27 Mar 2019
 * [AT&T Archives: The UNIX Operating System](https://youtu.be/tc4ROCJYbm0?t=300)
 ## 26 Mar 2019
