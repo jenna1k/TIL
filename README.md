@@ -1,5 +1,7 @@
 # Today I Learned
 ## 01 Apr 2019
+* [nvm](https://github.com/creationix/nvm)
+* [curl](https://github.com/curl/curl)
 * [How To Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04#removing-nodejs)
 * [The difference between git pull, git fetch and git clone (and git rebase)](https://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
 * [clone a specific Git branch? [duplicate]](https://stackoverflow.com/questions/14998923/how-can-i-copy-the-content-of-a-branch-to-a-new-local-branch)
