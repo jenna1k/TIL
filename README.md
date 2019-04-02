@@ -1,5 +1,6 @@
 # Today I Learned
 ## 02 Apr 2019
+* [learn git branch](https://learngitbranching.js.org/)
 * [practice js in terminal](https://github.com/workshopper/javascripting)
 * [BEM naming convention](http://getbem.com/naming/)
 ## 01 Apr 2019
