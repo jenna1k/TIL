@@ -1,4 +1,7 @@
 # Today I Learned
+## 02 Apr 2019
+* [practice js in terminal](https://github.com/workshopper/javascripting)
+* [BEM naming convention](http://getbem.com/naming/)
 ## 01 Apr 2019
 * [nvm](https://github.com/creationix/nvm)
 * [curl](https://github.com/curl/curl)
