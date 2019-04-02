@@ -1,5 +1,6 @@
 # Today I Learned
 ## 02 Apr 2019
+* [travis-ci](https://travis-ci.com)
 * [learn git branch](https://learngitbranching.js.org/)
 * [practice js in terminal](https://github.com/workshopper/javascripting)
 * [BEM naming convention](http://getbem.com/naming/)
