@@ -14,6 +14,7 @@ $ git remote -v
 ```
 git branch -r
 git fetch origin dev
+git merge origin/dev
 ```
 ## 02 Apr 2019
 * [github.dev | Personal website generator](https://github.dev/)
