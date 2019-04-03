@@ -1,5 +1,20 @@
 # Today I Learned
 ## 03 Apr 2019
+* git process
+```
+git branch -r   # check which branch you are in
+git checkout dev  # switch to dev branch
+git checkout -b feature_nav  # create new brance 'feature_nav' , if you are in dev branch, you will clone it to feature_nav
+```
+```
+git status
+git add .
+git commit -m ""
+```
+```
+git pull origin dev   # pull from dev branch
+git push origin feature_nav   # push to remote
+```
 * [git adding a remote](https://help.github.com/en/articles/adding-a-remote)
 ```
 $ git remote add origin[name] https://github.com/user/repo.git
