@@ -1,4 +1,20 @@
 # Today I Learned
+## 03 Apr 2019
+* [git adding a remote](https://help.github.com/en/articles/adding-a-remote)
+```
+$ git remote add origin[name] https://github.com/user/repo.git
+# Set a new remote
+
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/user/repo.git (fetch)
+> origin  https://github.com/user/repo.git (push)
+```
+* [git fetch remote branch](https://stackoverflow.com/questions/9537392/git-fetch-remote-branch)
+```
+git branch -r
+git fetch origin dev
+```
 ## 02 Apr 2019
 * [github.dev | Personal website generator](https://github.dev/)
 * [bootstrap no-gutters](https://getbootstrap.com/docs/4.0/layout/grid/#no-gutters)
