@@ -1,4 +1,7 @@
 # Today I Learned
+## 08 Apr 2019
+* [npm ERR! code ELIFECYCLE | Stack Overflow](https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle)
+* [JavaScript Accessors (Getters and Setters)](https://www.w3schools.com/js/js_object_accessors.asp)
 ## 03 Apr 2019
 * git process
 ```
