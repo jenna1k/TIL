@@ -10,6 +10,7 @@
   echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
   ```
 * [markdown emoji](https://gist.github.com/rxaviers/7360908)
+* [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ## 03 Apr 2019
 * git process
   ```
