@@ -5,38 +5,43 @@
 * [Deploy React to GitHub-Pages](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 * [react-devtools](https://github.com/facebook/react-devtools)
 * [vscode enospc error](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
+* [Watch mode on Linux causes a ENOSPC Node.js error ](https://github.com/facebook/jest/issues/3254)
+  ```
+  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  ```
+  * [markdown emoji](https://gist.github.com/rxaviers/7360908)
 ## 03 Apr 2019
 * git process
-```
-git branch -r   # check which branch you are in
-git checkout dev  # switch to dev branch
-git checkout -b feature_nav  # create new brance 'feature_nav' , if you are in dev branch, you will clone it to feature_nav
-```
-```
-git status
-git add .
-git commit -m ""
-```
-```
-git pull origin dev   # pull from dev branch
-git push origin feature_nav   # push to remote
-```
+  ```
+  git branch -r   # check which branch you are in
+  git checkout dev  # switch to dev branch
+  git checkout -b feature_nav  # create new brance 'feature_nav' , if you are in dev branch, you will clone it to feature_nav
+  ```
+  ```
+  git status
+  git add .
+  git commit -m ""
+  ```
+  ```
+  git pull origin dev   # pull from dev branch
+  git push origin feature_nav   # push to remote
+  ```
 * [git adding a remote](https://help.github.com/en/articles/adding-a-remote)
-```
-$ git remote add origin[name] https://github.com/user/repo.git
-# Set a new remote
+  ```
+  $ git remote add origin[name] https://github.com/user/repo.git
+  # Set a new remote
 
-$ git remote -v
-# Verify new remote
-> origin  https://github.com/user/repo.git (fetch)
-> origin  https://github.com/user/repo.git (push)
-```
+  $ git remote -v
+  # Verify new remote
+  > origin  https://github.com/user/repo.git (fetch)
+  > origin  https://github.com/user/repo.git (push)
+  ```
 * [git fetch remote branch](https://stackoverflow.com/questions/9537392/git-fetch-remote-branch)
-```
-git branch -r
-git fetch origin dev
-git merge origin/dev
-```
+  ```
+  git branch -r
+  git fetch origin dev
+  git merge origin/dev
+  ```
 ## 02 Apr 2019
 * [github.dev | Personal website generator](https://github.dev/)
 * [bootstrap no-gutters](https://getbootstrap.com/docs/4.0/layout/grid/#no-gutters)
