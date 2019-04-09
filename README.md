@@ -1,4 +1,6 @@
 # Today I Learned
+## 09 Apr 2019
+* [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
 ## 08 Apr 2019
 * [npm ERR! code ELIFECYCLE | Stack Overflow](https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle)
 * [JavaScript Accessors (Getters and Setters)](https://www.w3schools.com/js/js_object_accessors.asp)
