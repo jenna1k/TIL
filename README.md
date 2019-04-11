@@ -1,4 +1,6 @@
 # Today I Learned
+## 11 Apr 2019
+* [lodash](https://lodash.com/)
 ## 10 Apr 2019
 * [vim 마우스 없이 코딩](https://www.youtube.com/watch?v=qn1soztN7k4&feature=youtu.be&fbclid=IwAR1tqUR3vd7Jq7HRVLM_QxCHUWkQq_LTIujawU_iyVWgyQatUoLNrFXWV6Q)
 ## 09 Apr 2019
