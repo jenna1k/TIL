@@ -1,4 +1,7 @@
 # Today I Learned
+## 12 Apr 2019
+* [Youtube | React JS Tutorial](https://www.youtube.com/watch?v=UtIOMUQ7nWM)
+* [ES6 katas](http://es6katas.org/)
 ## 11 Apr 2019
 * [lodash](https://lodash.com/)
 ## 10 Apr 2019
