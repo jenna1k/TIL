@@ -1,4 +1,9 @@
-# Today I Learned
+# Today I Learned 
+(read it later..)
+## 13 Apr 2019
+* [clean code vs dirty code](https://americanexpress.io/clean-code-dirty-code/)
+* [react patterns](https://reactpatterns.com/)
+* [react.js cheatsheet](https://devhints.io/react)
 ## 12 Apr 2019
 * [Youtube | React JS Tutorial](https://www.youtube.com/watch?v=UtIOMUQ7nWM)
 * [ES6 katas](http://es6katas.org/)
