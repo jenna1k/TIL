@@ -1,10 +1,11 @@
 # Today I Learned 
 (read it later..)
 ## 14 Apr 2019
-* [react proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 * [styling and css - react](https://reactjs.org/docs/faq-styling.html)
 * [super(props)](https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e)
 * [constructor, super](https://stackoverflow.com/questions/40433463/what-does-calling-super-in-a-react-constructor-do/40440322)
+* [react proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+* [react default props](https://reactjs.org/docs/react-without-es6.html#declaring-default-props)
 ## 13 Apr 2019
 * [clean code vs dirty code](https://americanexpress.io/clean-code-dirty-code/)
 * [react patterns](https://reactpatterns.com/)
