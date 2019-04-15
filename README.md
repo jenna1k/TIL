@@ -6,6 +6,7 @@
 * [constructor, super](https://stackoverflow.com/questions/40433463/what-does-calling-super-in-a-react-constructor-do/40440322)
 * [react proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 * [react default props](https://reactjs.org/docs/react-without-es6.html#declaring-default-props)
+* [react state&lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 ## 13 Apr 2019
 * [clean code vs dirty code](https://americanexpress.io/clean-code-dirty-code/)
 * [react patterns](https://reactpatterns.com/)
