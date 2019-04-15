@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 14 Apr 2019
+* [styling and css - react](https://reactjs.org/docs/faq-styling.html)
 ## 13 Apr 2019
 * [clean code vs dirty code](https://americanexpress.io/clean-code-dirty-code/)
 * [react patterns](https://reactpatterns.com/)
