@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 15 Apr 2019
+* [git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+  > `git reset` : undo `git add` before commit 
 ## 14 Apr 2019
 * [styling and css - react](https://reactjs.org/docs/faq-styling.html)
 * [super(props)](https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e)
