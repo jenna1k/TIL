@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 17 Apr 2019
+* [axios](https://github.com/axios/axios)
 ## 15 Apr 2019
 * [git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
   > `git reset` : undo `git add` before commit 
