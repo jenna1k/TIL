@@ -1,5 +1,13 @@
 # Today I Learned 
 (read it later..)
+## 24 Apr 2019
+
+* callback is invoked with three arguments:
+  ```
+  the value of the element
+  the index of the element
+  the Array object being traversed
+  ```
 ## 17 Apr 2019
 * [axios](https://github.com/axios/axios)
 ## 15 Apr 2019
