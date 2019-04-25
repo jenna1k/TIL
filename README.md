@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 25 Apr 2019
+* [remove scroll bar](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
 ## 24 Apr 2019
 * [for...in | javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
   ```javascript
