@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 26 Apr 2019
+* [remove quote in json](https://stackoverflow.com/questions/9244824/how-to-remove-quot-from-my-json-in-javascript)
 ## 25 Apr 2019
 * [remove scroll bar](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
 ## 24 Apr 2019
