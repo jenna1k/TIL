@@ -1,5 +1,21 @@
 # Today I Learned 
 (read it later..)
+## 29 Apr 2019
+* git push for quest
+  ```
+  git branch
+  git checkout -b [new quest]
+
+  git add .
+  git commit -m "message"
+
+  git remote -v
+  git remote rm origin
+  git remote add origin [new quest repo]
+
+  // change homepage address in package.json
+  npm run deploy
+  ```
 ## 26 Apr 2019
 * [remove quote in json](https://stackoverflow.com/questions/9244824/how-to-remove-quot-from-my-json-in-javascript)
 ## 25 Apr 2019
