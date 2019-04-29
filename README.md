@@ -12,12 +12,17 @@
   git remote -v
   git remote rm origin
   git remote add origin [new quest repo]
+  // for gh-pages
   
   git push origin routher:master
   git push  <REMOTENAME> <LOCALBRANCHNAME>:<REMOTEBRANCHNAME> 
 
   // change homepage address in package.json
   npm run deploy
+  ```
+* git change branch name
+  ``` 
+  git branch -m <newname>
   ```
 ## 26 Apr 2019
 * [remove quote in json](https://stackoverflow.com/questions/9244824/how-to-remove-quot-from-my-json-in-javascript)
