@@ -14,7 +14,7 @@
   git remote add origin [new quest repo]
   // for gh-pages
   
-  git push origin routher:master
+  git push origin router:master
   git push  <REMOTENAME> <LOCALBRANCHNAME>:<REMOTEBRANCHNAME> 
 
   // change homepage address in package.json
