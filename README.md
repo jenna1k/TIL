@@ -2,6 +2,7 @@
 (read it later..)
 ## 08 May 2019
 * [JS e.target](https://developer.mozilla.org/en-US/docs/Web/API/Event/target)
+* [netlify](https://www.netlify.com/)
 ## 29 Apr 2019
 * git push for quest
   ```
