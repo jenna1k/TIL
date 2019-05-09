@@ -4,7 +4,8 @@
 * `Body.json()` is asynchronous and returns a Promise object that resolves to a JavaScript object. 
 * `JSON.parse()` is synchronous can parse a string and change the resulting returned JavaScript object. 
   (turns a string of JSON text into a JavaScript object.)
-* `JSON.stringify` turns a JavaScript object into JSON text and stores that JSON text in a string.
+* `JSON.stringify` turns a JavaScript object into JSON text and stores that JSON text in a string. 
+  (create a JSON string out of an object/array)
 ## 08 May 2019
 * [JS e.target](https://developer.mozilla.org/en-US/docs/Web/API/Event/target)
 * [netlify](https://www.netlify.com/)
