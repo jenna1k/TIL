@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 10 May 2019
+* [implement-html-entity-decode-in-react-js](https://stackoverflow.com/questions/42361689/implement-html-entity-decode-in-react-js)
+* [rendering-raw-html-with-reactjs](https://stackoverflow.com/questions/27934238/rendering-raw-html-with-reactjs)
 ## 09 May 2019
 * `Body.json()` is asynchronous and returns a Promise object that resolves to a JavaScript object. 
 * `JSON.parse()` is synchronous can parse a string and change the resulting returned JavaScript object. 
