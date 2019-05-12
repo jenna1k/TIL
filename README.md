@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 12 May 2019
+* [HTML data-* attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
 ## 10 May 2019
 * [implement-html-entity-decode-in-react-js](https://stackoverflow.com/questions/42361689/implement-html-entity-decode-in-react-js)
 * [rendering-raw-html-with-reactjs](https://stackoverflow.com/questions/27934238/rendering-raw-html-with-reactjs)
