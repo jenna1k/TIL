@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 17 May 2019
+* [react-dropdown-tree-select](https://dowjones.github.io/react-dropdown-tree-select/#/story/readme)
+* [juse.js - search library](https://fusejs.io/)
 ## 12 May 2019
 * [HTML data-* attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
 ## 10 May 2019
