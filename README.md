@@ -1,5 +1,17 @@
 # Today I Learned 
 (read it later..)
+## 28 May 2019
+* git: how to remove added file
+```
+// make .gitignore file.
+// add node_modules/ line to gitignore file
+// run this command 
+git rm -r --cached .
+git add .
+git commit -m "remove gitignore files"
+git push 
+```
+
 ## 17 May 2019
 * [react-dropdown-tree-select](https://dowjones.github.io/react-dropdown-tree-select/#/story/readme)
 * [juse.js - search library](https://fusejs.io/)
