@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 29 May 2019
+* [set default editor](https://unix.stackexchange.com/questions/73484/how-can-i-set-vi-as-my-default-editor-in-unix)
 ## 28 May 2019
 * git: how to remove added file
 ```
