@@ -2,6 +2,7 @@
 (read it later..)
 ## 02 Jun 2019
 * [mysql-error-access-denied-for-user-rootlocalhost](https://stackoverflow.com/questions/41645309/mysql-error-access-denied-for-user-rootlocalhost)
+* [mysql cant-reset-root-password-with-skip-grant-tables-on-ubuntu](https://stackoverflow.com/questions/41984956/cant-reset-root-password-with-skip-grant-tables-on-ubuntu-16/50360678)
 ## 29 May 2019
 * [set default editor](https://unix.stackexchange.com/questions/73484/how-can-i-set-vi-as-my-default-editor-in-unix)
 ## 28 May 2019
