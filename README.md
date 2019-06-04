@@ -1,6 +1,7 @@
 # Today I Learned 
 (read it later..)
 ## 04 Jun 2019
+* [git change commit message after push](https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote)
 * [delete tag](https://stackoverflow.com/questions/5480258/how-to-delete-a-remote-tag)
 * [remove-files-from-git-adding/updating-gitignore](https://eric.blog/2014/05/11/remove-files-from-git-addingupdating-gitignore/)
 * [git tag basics](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
