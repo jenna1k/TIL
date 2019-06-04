@@ -1,6 +1,7 @@
 # Today I Learned 
 (read it later..)
 ## 04 Jun 2019
+* [delete tag](https://stackoverflow.com/questions/5480258/how-to-delete-a-remote-tag)
 * [remove-files-from-git-adding/updating-gitignore](https://eric.blog/2014/05/11/remove-files-from-git-addingupdating-gitignore/)
 ## 02 Jun 2019
 * [mysql ubuntu 18.04](https://vitux.com/how-to-install-and-configure-mysql-in-ubuntu-18-04-lts/)
