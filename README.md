@@ -3,7 +3,25 @@
 ## 06 Jun 2019
 * [apilist.fun](https://apilist.fun/)
 * [public apis](https://public-apis.xyz/)
-### [WeAreDevelopers World Congress 2019](https://events.wearedevelopers.com/)
+### WeAreDevelopers World Congress 2019
+#### - Modelling Marketplaces with GraphQL
+  - the sites used for demo
+    - [glitch](https://glitch.com/)
+    - [graphql voyager](https://apis.guru/graphql-voyager/)
+#### - Architecting scalable serverless applications with GraphQL API using Hasura
+  - [Hasura](https://hasura.io/): Instant Realtime GraphQL on Postgres
+  - [GraphQL tutorials for frontend developers](https://learn.hasura.io/)
+  - [Scaling to 1 million active GraphQL subscriptions (live queries)](https://github.com/hasura/graphql-engine/blob/master/architecture/live-queries.md)
+#### - Modern React: Things You Didn't Know Where Possible
+  - Hooks
+    - React.lazy() : code splitting with suspense
+    - useState() Hook : shortcut for react lifecycle
+    - useEffect() Hook : execute whenever state value changes
+  - Context
+#### Why developers should care more about security - explained by a hacker
+  - Red team : put yourself in the skin of the attacker to attack your own organization and to adapt your defenses accordingly
+  - 
+
 ## 04 Jun 2019
 * [git change commit message after push](https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote)
 * [delete tag](https://stackoverflow.com/questions/5480258/how-to-delete-a-remote-tag)
