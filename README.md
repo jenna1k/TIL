@@ -20,7 +20,11 @@
   - Context
 #### Why developers should care more about security - explained by a hacker
   - Red team : put yourself in the skin of the attacker to attack your own organization and to adapt your defenses accordingly
-  - 
+  - books recommended
+    - [RTFM](https://www.amazon.co.uk/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+    - [The Hacker Playbook 3](https://www.amazon.de/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
+    - [red team](https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/1501274899)
+    - [violent python](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 ## 04 Jun 2019
 * [git change commit message after push](https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote)
