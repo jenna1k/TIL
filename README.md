@@ -3,6 +3,7 @@
 ## 06 Jun 2019
 * [apilist.fun](https://apilist.fun/)
 * [public apis](https://public-apis.xyz/)
+### [WeAreDevelopers World Congress 2019](https://events.wearedevelopers.com/)
 ## 04 Jun 2019
 * [git change commit message after push](https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote)
 * [delete tag](https://stackoverflow.com/questions/5480258/how-to-delete-a-remote-tag)
