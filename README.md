@@ -1,5 +1,9 @@
 # Today I Learned 
 (read it later..)
+## 07 Jun 2019
+### WeAreDevelopers World Congress 2019
+#### MongoDB Stitch - MongoDB's Serverless Platform
+  - [workshop github](https://github.com/mongodb-developer/mugs/tree/master/workshop-atlas-stitch)
 ## 06 Jun 2019
 * [apilist.fun](https://apilist.fun/)
 * [public apis](https://public-apis.xyz/)
