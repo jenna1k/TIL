@@ -4,6 +4,10 @@
 ### WeAreDevelopers World Congress 2019
 #### MongoDB Stitch - MongoDB's Serverless Platform
   - [workshop github](https://github.com/mongodb-developer/mugs/tree/master/workshop-atlas-stitch)
+  
+* [web assembly](https://en.wikipedia.org/wiki/WebAssembly)
+* [session storage / local storage / cookies](https://www.quora.com/What-is-the-difference-between-sessionstorage-localstorage-and-Cookies)
+* [cookie & cache](https://www.quora.com/What-is-the-difference-between-cookies-and-cache)
 ## 06 Jun 2019
 * [apilist.fun](https://apilist.fun/)
 * [public apis](https://public-apis.xyz/)
