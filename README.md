@@ -8,6 +8,7 @@
 * [web assembly](https://en.wikipedia.org/wiki/WebAssembly)
 * [session storage / local storage / cookies](https://www.quora.com/What-is-the-difference-between-sessionstorage-localstorage-and-Cookies)
 * [cookie & cache](https://www.quora.com/What-is-the-difference-between-cookies-and-cache)
+* [redis](https://en.wikipedia.org/wiki/Redis)
 ## 06 Jun 2019
 * [apilist.fun](https://apilist.fun/)
 * [public apis](https://public-apis.xyz/)
