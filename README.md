@@ -2,6 +2,7 @@
 (read it later..)
 ## 09 Jun 2019
 * [how to write a git commit](https://chris.beams.io/posts/git-commit/)
+* [basic-writing-and-formatting-syntax | github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 ## 07 Jun 2019
 ### WeAreDevelopers World Congress 2019
 #### MongoDB Stitch - MongoDB's Serverless Platform
