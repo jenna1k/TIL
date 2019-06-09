@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 09 Jun 2019
+* [how to write a git commit](https://chris.beams.io/posts/git-commit/)
 ## 07 Jun 2019
 ### WeAreDevelopers World Congress 2019
 #### MongoDB Stitch - MongoDB's Serverless Platform
