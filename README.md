@@ -2,7 +2,7 @@
 (read it later..)
 ## 11 Jun 2019
 * [npm ERR! No Space left on device](https://github.com/npm/npm/issues/1131)
-* [size of directory - ubuntu command](How do I determine the total size of a directory from the command line?)
+* [size of directory - ubuntu command](https://askubuntu.com/questions/1224/how-do-i-determine-the-total-size-of-a-directory-folder-from-the-command-line)
 * `df -h -i`
 * `du -h --max-depth=1`
 ## 09 Jun 2019
