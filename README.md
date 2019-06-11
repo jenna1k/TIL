@@ -1,5 +1,10 @@
 # Today I Learned 
 (read it later..)
+## 11 Jun 2019
+* [npm ERR! No Space left on device](https://github.com/npm/npm/issues/1131)
+* [size of directory - ubuntu command](How do I determine the total size of a directory (folder) from the command line?)
+* `df -h -i`
+* `du -h --max-depth=1`
 ## 09 Jun 2019
 * [how to write a git commit](https://chris.beams.io/posts/git-commit/)
 * [basic-writing-and-formatting-syntax | github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
