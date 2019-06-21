@@ -1,5 +1,10 @@
 # Today I Learned 
 (read it later..)
+## 21 Jun 2019
+* [How to use localStorage with React](https://programmingwithmosh.com/react/localstorage-react/)
+* [Storing Objects in HTML5 localStorage](https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage)
+* [Ubuntu Low disk Space in Root Filesystem Error](https://askubuntu.com/questions/585689/low-disk-space-in-root-filesystem-error)
+* [Git found a swap file by the name](https://stackoverflow.com/questions/13361729/found-a-swap-file-by-the-name)
 ## 11 Jun 2019
 * [npm ERR! No Space left on device](https://github.com/npm/npm/issues/1131)
 * [size of directory - ubuntu command](https://askubuntu.com/questions/1224/how-do-i-determine-the-total-size-of-a-directory-folder-from-the-command-line)
