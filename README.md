@@ -2,6 +2,7 @@
 (read it later..)
 ## 25 Jun 2019
 * [Ubuntu: bash: cannot create temp file for here-document: No space left on device ](https://unix.stackexchange.com/questions/501316/ubuntu-bash-cannot-create-temp-file-for-here-document-no-space-left-on-device)
+* [Ubuntu 18.04 stuck in boot after starting Gnome Display Manager on Intel Graphics](https://askubuntu.com/questions/1032639/ubuntu-18-04-stuck-in-boot-after-starting-gnome-display-manager-on-intel-graphic)
 ```
 su
 sync; echo 3 > /proc/sys/vm/drop_caches
