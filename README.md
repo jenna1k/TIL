@@ -1,5 +1,16 @@
 # Today I Learned 
 (read it later..)
+## 25 Jun 2019
+* [Ubuntu: bash: cannot create temp file for here-document: No space left on device ](https://unix.stackexchange.com/questions/501316/ubuntu-bash-cannot-create-temp-file-for-here-document-no-space-left-on-device)
+```
+su
+sync; echo 3 > /proc/sys/vm/drop_caches
+sudo echo "" > /var/log/syslog
+sudo dpkg --purge $(COLUMNS=200 dpkg -l | grep "^rc" | tr -s ' ' | cut -d ' ' -f 2)
+```
+* [How to Clear RAM Memory Cache, Buffer and Swap Space on Linux](https://www.tecmint.com/clear-ram-memory-cache-buffer-and-swap-space-on-linux/)
+* [dpkg: the low level package manager of Ub](https://doc.ubuntu-fr.org/dpkg)
+* [tr - Convert or delete characters | ubuntu - manual](http://manpages.ubuntu.com/manpages/bionic/fr/man1/tr.1.html)
 ## 21 Jun 2019
 * [How to use localStorage with React](https://programmingwithmosh.com/react/localstorage-react/)
 * [Storing Objects in HTML5 localStorage](https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage)
