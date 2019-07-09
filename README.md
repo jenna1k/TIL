@@ -13,7 +13,7 @@
   ```
 ## 05 Jul 2019
 * [bcrypt](https://www.abeautifulsite.net/hashing-passwords-with-nodejs-and-bcrypt)
-* [Passport](http://www.passportjs.org/)
+* [Passport](https://github.com/jaredhanson/passport)
 * [JWT](https://jwt.io/)
 ## 26 Jun 2019
 * [flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
