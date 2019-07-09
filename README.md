@@ -1,5 +1,16 @@
 # Today I Learned 
 (read it later..)
+## 09 Jul 2019
+* [port already using error](https://stackoverflow.com/questions/54468097/how-to-fix-error-listen-eaddrinuse-address-already-in-use-5000-unhandled)
+  ```
+  sudo lsof -i :<port number>
+  sudo kill -9 <PID>
+  ```
+* [How to prevent SQL Injection in Node.js](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
+* [git remove node_modules](https://gist.github.com/lmcneel/45594e550a3403d589bdcaad38138a83)
+  ```
+  git rm -r --cached node_modules
+  ```
 ## 05 Jul 2019
 * [bcrypt](https://www.abeautifulsite.net/hashing-passwords-with-nodejs-and-bcrypt)
 * [Passport](http://www.passportjs.org/)
