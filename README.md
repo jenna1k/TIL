@@ -1,10 +1,27 @@
 # Today I Learned 
 (read it later..)
 ## 10 Jul 2019
-* Animation
-  - display | layout(expenssive- calculate - cpu) | paint(cheap - no calc - gpu)
-  -  | heigh, width, padding, margin | color, opacity, transform( scale, translate, rotate, skew)
-  
+#### Animation
+* state 1 - transition(property,duration,time function,delay) - state 2
+* key frame
+##### why you should use
+   ###### 1. Performance
+     UX, < 700ms, feeling
+   ###### when browser rendered
+   display | layout | paint
+   --- | --- | ---
+   . | expenssive- calculate - cpu | cheap - no calc - gpu
+   . | heigh, width, padding, margin | color, opacity, transform( scale, translate, rotate, skew)
+   ###### 2. Organizing
+    enter(easy-out), leave(easy-in)
+##### Links
+* [cubic-bezier](https://cubic-bezier.com/)
+* [shapeshifter](https://shapeshifter.design/)
+* [animejs](https://animejs.com/documentation)
+* [framer](https://www.framer.com/motion/)
+* [greensock](https://greensock.com/)
+* [threejs](https://threejs.org/)
+
 ## 09 Jul 2019
 * [port already using error](https://stackoverflow.com/questions/54468097/how-to-fix-error-listen-eaddrinuse-address-already-in-use-5000-unhandled)
   ```
