@@ -1,5 +1,10 @@
 # Today I Learned 
 (read it later..)
+## 10 Jul 2019
+* Animation
+  - display | layout(expenssive- calculate - cpu) | paint(cheap - no calc - gpu)
+  -  | heigh, width, padding, margin | color, opacity, transform( scale, translate, rotate, skew)
+  
 ## 09 Jul 2019
 * [port already using error](https://stackoverflow.com/questions/54468097/how-to-fix-error-listen-eaddrinuse-address-already-in-use-5000-unhandled)
   ```
