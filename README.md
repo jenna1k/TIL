@@ -1,5 +1,9 @@
 # Today I Learned 
 (read it later..)
+## 27 Aug 2019
+* `git clone --branch <remote branch name>`
+* `git checkout -b <new branch> <remote name>/<remote branch name>`
+
 ## 10 Jul 2019
 #### Animation
 * state 1 - transition(property,duration,time function,delay) - state 2
