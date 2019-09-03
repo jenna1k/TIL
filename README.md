@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 03 Sep 2019
+* [git rebase: “error: cannot stat 'file': Permission denied”](https://stackoverflow.com/questions/5970879/git-rebase-error-cannot-stat-file-permission-denied)
 ## 27 Aug 2019
 * `git clone --branch <remote branch name>`
 * `git checkout -b <new branch> <remote name>/<remote branch name>`
