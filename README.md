@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 09 Sep 2019
+* [Discarding all local commits on this branch](https://sethrobertson.github.io/GitFixUm/fixup.html) : `git reset --hard @{u}`
 ## 03 Sep 2019
 * [git rebase: “error: cannot stat 'file': Permission denied”](https://stackoverflow.com/questions/5970879/git-rebase-error-cannot-stat-file-permission-denied)
 ## 27 Aug 2019
