@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 17 Sep 2019
+* `git checkout <remote>/<branch>`
+* `git reset <remote>/<branch>`
 ## 09 Sep 2019
 * [Discarding all local commits on this branch](https://sethrobertson.github.io/GitFixUm/fixup.html) : `git reset --hard @{u}`
 ## 03 Sep 2019
