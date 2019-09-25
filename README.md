@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 25 Sep 2019
+* [npm - Get list of globally installed packages](https://medium.com/@alberto.schiabel/npm-tricks-part-1-get-list-of-globally-installed-packages-39a240347ef0)
+* `npm list -g -depth=0`
 ## 17 Sep 2019
 * `git checkout <remote>/<branch>`
 * `git reset <remote>/<branch>`
