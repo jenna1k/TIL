@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 29 Sep 2019
+* [ng new bug "npm WARN tarball tarball data for @angular/core@~8.0.3 seems to be corrupted." ](https://github.com/angular/angular-cli/issues/14971#issuecomment-508235202)
 ## 25 Sep 2019
 * [npm - Get list of globally installed packages](https://medium.com/@alberto.schiabel/npm-tricks-part-1-get-list-of-globally-installed-packages-39a240347ef0)
 * `npm list -g -depth=0`
