@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 03 Oct 2019
+* [AngularFireStorage Monitoring upload percentage](https://github.com/angular/angularfire2/blob/master/docs/storage/storage.md#monitoring-upload-percentage)
 ## 29 Sep 2019
 * [ng new bug "npm WARN tarball tarball data for @angular/core@~8.0.3 seems to be corrupted." ](https://github.com/angular/angular-cli/issues/14971#issuecomment-508235202)
 ## 25 Sep 2019
