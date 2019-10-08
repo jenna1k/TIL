@@ -1,6 +1,7 @@
 # Today I Learned 
 (read it later..)
 ## 08 Oct 2019
+* [FirebaseStorageError {code_: "storage/object-not-found"](https://github.com/angular/angularfire2/issues/1750)
 * [Error: [object Object] at viewWrappedDebugError](https://github.com/angular/angularfire2/issues/1439)
 ## 03 Oct 2019
 * [AngularFireStorage Monitoring upload percentage](https://github.com/angular/angularfire2/blob/master/docs/storage/storage.md#monitoring-upload-percentage)
