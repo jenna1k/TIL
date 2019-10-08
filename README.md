@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 08 Oct 2019
+* [Error: [object Object] at viewWrappedDebugError](https://github.com/angular/angularfire2/issues/1439)
 ## 03 Oct 2019
 * [AngularFireStorage Monitoring upload percentage](https://github.com/angular/angularfire2/blob/master/docs/storage/storage.md#monitoring-upload-percentage)
 ## 29 Sep 2019
