@@ -1,5 +1,14 @@
 # Today I Learned 
 (read it later..)
+## 08 Nov 2019
+* [Maximum call stack size exceeded on npm install](https://stackoverflow.com/questions/40566348/maximum-call-stack-size-exceeded-on-npm-install/49750421#49750421)
+```
+rm package-lock.json
+rm -rf node_modules
+npm cache verify
+// close IDE
+npm install
+```
 ## 08 Oct 2019
 * [FirebaseStorageError {code_: "storage/object-not-found"](https://github.com/angular/angularfire2/issues/1750)
 * [Error: [object Object] at viewWrappedDebugError](https://github.com/angular/angularfire2/issues/1439)
