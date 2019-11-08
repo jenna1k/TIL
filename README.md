@@ -9,7 +9,7 @@ npm cache verify
 // close IDE
 npm install
 ```
-* [Should the package-lock.json file be added to .gitignore?](https://stackoverflow.com/questions/48524417/should-the-package-lock-json-file-be-added-to-gitignore)
+* [Should the package-lock.json file be added to .gitignore?](https://stackoverflow.com/a/48524475)
 * [Can a change to package-lock.json ever affect the deployment?](https://stackoverflow.com/a/53303884)
 ## 08 Oct 2019
 * [FirebaseStorageError {code_: "storage/object-not-found"](https://github.com/angular/angularfire2/issues/1750)
