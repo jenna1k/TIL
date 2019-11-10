@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 10 Nov 2019
+- npm related command: close IDE, powershell as admin (+npx ng)
 ## 08 Nov 2019
 * [Maximum call stack size exceeded on npm install](https://stackoverflow.com/questions/40566348/maximum-call-stack-size-exceeded-on-npm-install/49750421#49750421)
 ```
