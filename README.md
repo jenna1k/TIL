@@ -1,7 +1,8 @@
 # Today I Learned 
 (read it later..)
 ## 10 Nov 2019
-- npm related command: close IDE, powershell as admin (+npx ng)
+- npm related command: close IDE, powershell as admin 
+- ng error in powershell [PowerShell execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6) : npx ng
 ## 08 Nov 2019
 * [Maximum call stack size exceeded on npm install](https://stackoverflow.com/questions/40566348/maximum-call-stack-size-exceeded-on-npm-install/49750421#49750421)
 ```
