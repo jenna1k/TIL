@@ -1,10 +1,10 @@
 # Today I Learned 
 (read it later..)
 ## 10 Nov 2019
-- errors
+- *npm errors*
 ```
-Maximum call stack size exceeded
-The operation was rejected by your operating system
+* Maximum call stack size exceeded
+* The operation was rejected by your operating system
 ```
 ->  npm related command: close IDE, powershell as admin 
   * [PowerShell execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6) ng error in powershell: npx ng
