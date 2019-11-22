@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 22 Nov 2019
+* [undo git reset](https://stackoverflow.com/questions/2510276/how-to-undo-git-reset/25323523)
 ## 10 Nov 2019
 - *npm errors*
 ```
