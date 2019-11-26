@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 26 Nov 2019
+* [How to un-commit last un-pushed git commit without losing the changes](https://stackoverflow.com/questions/19859486/how-to-un-commit-last-un-pushed-git-commit-without-losing-the-changes)
 ## 22 Nov 2019
 * [undo git reset](https://stackoverflow.com/questions/2510276/how-to-undo-git-reset/25323523)
 ## 10 Nov 2019
