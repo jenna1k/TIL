@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 29 Nov 2019
+* [Theming your custom component with Angular Material's theming system](https://material.angular.io/guide/theming-your-components)
+* [scss @mixin and @include](https://sass-lang.com/documentation/at-rules/mixin)
 ## 26 Nov 2019
 * [How to un-commit last un-pushed git commit without losing the changes](https://stackoverflow.com/questions/19859486/how-to-un-commit-last-un-pushed-git-commit-without-losing-the-changes)
 * [How to use Git Revert](https://stackoverflow.com/questions/19032296/how-to-use-git-revert)
