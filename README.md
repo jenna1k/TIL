@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 02 Dec 2019
+* [angular ViewEncapsulation](https://angular.io/api/core/ViewEncapsulation)
 ## 29 Nov 2019
 * [angular/components/tree/master/src/material](https://github.com/angular/components/tree/master/src/material)
 * [Theming your custom component with Angular Material's theming system](https://material.angular.io/guide/theming-your-components)
