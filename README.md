@@ -1,5 +1,8 @@
 # Today I Learned 
 (read it later..)
+## 12 Dec 2019
+* [angular material repo](https://github.com/angular/components/tree/master/src/material)
+* [angular cdk](https://github.com/angular/components/tree/master/src/cdk)
 ## 02 Dec 2019
 * [angular ViewEncapsulation](https://angular.io/api/core/ViewEncapsulation)
 ## 29 Nov 2019
