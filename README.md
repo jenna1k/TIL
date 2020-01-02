@@ -1,5 +1,7 @@
 # Today I Learned 
 (read it later..)
+## 01 Jan 2020
+* [@Injectable(providedIn: 'root')](https://stackoverflow.com/a/51990223)
 ## 12 Dec 2019
 * [angular material repo](https://github.com/angular/components/tree/master/src/material)
 * [angular cdk](https://github.com/angular/components/tree/master/src/cdk)
