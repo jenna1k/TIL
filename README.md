@@ -2,6 +2,12 @@
 (read it later..)
 ## 01 Jan 2020
 * [@Injectable(providedIn: 'root')](https://stackoverflow.com/a/51990223)
+* [Setting your branch to exactly match the remote branch](https://stackoverflow.com/a/1628334)
+  ```
+  git fetch origin
+  git reset --hard origin/master
+  ```
+* [multiple ng-content](https://stackoverflow.com/a/52645599)
 ## 12 Dec 2019
 * [angular material repo](https://github.com/angular/components/tree/master/src/material)
 * [angular cdk](https://github.com/angular/components/tree/master/src/cdk)
