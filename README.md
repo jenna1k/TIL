@@ -1,5 +1,28 @@
 # Today I Learned 
 (read it later..)
+## 02 Jan 2020
+* controlContainer
+```
+Object {          ...FormGroup
+  key: value[]    ...FormArrayName: FormGroup (FormArray doesn't exist!)
+  }
+  
+<form [formGroup]="promotionalDescription">
+  <movie-form-keywords formArrayName="keywords"></movie-form-keywords>
+</form>
+```
+```
+  Array {         ...FormArray
+    0: value      ...FormControlName: FormControl
+    }
+  
+  get keywords() : FormArray {
+    return this.controlContainer.control as FormArray
+  }
+  
+    <input matInput [formControl]="keyword" />
+  
+```
 ## 01 Jan 2020
 * [@Injectable(providedIn: 'root')](https://stackoverflow.com/a/51990223)
 * [Setting your branch to exactly match the remote branch](https://stackoverflow.com/a/1628334)
